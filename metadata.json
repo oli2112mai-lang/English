@@ -1,0 +1,6 @@
+{
+  "name": "LinguaFlash - Английская лексика и грамматика",
+  "description": "Яркий интерактивный тренажер английской лексики и грамматики в виде иллюстрированных карточек, с озвучкой, тестами и добавлением своих слов.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
