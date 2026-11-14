@@ -4,6 +4,7 @@ import path from 'path';
 import https from 'node:https';
 import { URL } from 'node:url';
 import { defineConfig, Plugin } from 'vite';
+base: '/English/',
 
 function ttsPlugin(): Plugin {
   const handleTts = (req: any, res: any) => {
